@@ -1,3 +1,4 @@
+# Author Alex T. - Github: github.com/altzan
 # import the necessary packages
 import argparse
 import cv2
